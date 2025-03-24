@@ -1,0 +1,81 @@
+/* Container for the entire form */
+.configuration-form {
+  background-color: #ffffff;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  max-width: 400px; /* Ensures consistent width */
+   /* Centers the form horizontally */
+   width: 100%;
+   height: 100%;
+}
+
+/* Heading Style */
+.configuration-form h2 {
+  margin-bottom: 20px;
+  color: #333;
+  
+}
+
+/* Form container */
+form {
+  background-color: white;
+  padding: 25px;
+  border-radius: 8px;
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.1);
+  max-width: 350px;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  margin-top: 0;;
+}
+
+/* Label styling */
+label {
+  font-weight: bold;
+  color: #555;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+/* Input Fields */
+input[type="number"] {
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  font-size: 16px;
+  transition: border-color 0.3s ease;
+  box-sizing: border-box;
+}
+
+/* Input Focus Effect */
+input[type="number"]:focus {
+  border-color: #007bff;
+  outline: none;
+}
+
+/* Submit Button */
+button {
+  padding: 12px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  font-size: 16px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+/* Button Hover Effect */
+button:hover {
+  background-color: #0056b3;
+}
+
+/* Mobile Responsive Design */
+@media (max-width: 768px) {
+  .configuration-form {
+    width: 90%; /* Adjust width for smaller screens */
+  }
+}
