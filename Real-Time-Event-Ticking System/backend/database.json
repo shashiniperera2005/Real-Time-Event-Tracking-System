@@ -1,0 +1,90 @@
+[
+  {
+    "totalTickets": 30,
+    "maximumTicketCapacity": 30,
+    "ticketReleaseRate": 2000,
+    "customerRetrievalRate": 2000,
+    "customerCount": 5,
+    "vendorCount": 2
+  },
+  {
+    "totalTickets": 60,
+    "maximumTicketCapacity": 50,
+    "ticketReleaseRate": 2000,
+    "customerRetrievalRate": 2000,
+    "customerCount": 8,
+    "vendorCount": 3
+  },
+  {
+    "totalTickets": 70,
+    "maximumTicketCapacity": 80,
+    "ticketReleaseRate": 2000,
+    "customerRetrievalRate": 2000,
+    "customerCount": 10,
+    "vendorCount": 6
+  },
+  {
+    "totalTickets": 50,
+    "maximumTicketCapacity": 30,
+    "ticketReleaseRate": 2000,
+    "customerRetrievalRate": 3000,
+    "customerCount": 5,
+    "vendorCount": 3
+  },
+  {
+    "totalTickets": 30,
+    "maximumTicketCapacity": 70,
+    "ticketReleaseRate": 2000,
+    "customerRetrievalRate": 3000,
+    "customerCount": 5,
+    "vendorCount": 5
+  },
+  {
+    "totalTickets": 50,
+    "maximumTicketCapacity": 40,
+    "ticketReleaseRate": -7,
+    "customerRetrievalRate": 2000,
+    "customerCount": 2,
+    "vendorCount": 5
+  },
+  {
+    "totalTickets": 100,
+    "maximumTicketCapacity": 300,
+    "ticketReleaseRate": 2000,
+    "customerRetrievalRate": 2000,
+    "customerCount": 15,
+    "vendorCount": 10
+  },
+  {
+    "totalTickets": 30,
+    "maximumTicketCapacity": 10,
+    "ticketReleaseRate": 2000,
+    "customerRetrievalRate": 2000,
+    "customerCount": 5,
+    "vendorCount": 3
+  },
+  {
+    "totalTickets": 39,
+    "maximumTicketCapacity": 50,
+    "ticketReleaseRate": 2000,
+    "customerRetrievalRate": 3000,
+    "customerCount": 5,
+    "vendorCount": 3
+  },
+  {
+    "totalTickets": 40,
+    "maximumTicketCapacity": 50,
+    "ticketReleaseRate": 2000,
+    "customerRetrievalRate": 4000,
+    "customerCount": 8,
+    "vendorCount": 5
+  },
+  {
+    "totalTickets": 30,
+    "maximumTicketCapacity": 30,
+    "ticketReleaseRate": 1000,
+    "customerRetrievalRate": 2000,
+    "customerCount": 3,
+    "vendorCount": 2
+  }
+]
